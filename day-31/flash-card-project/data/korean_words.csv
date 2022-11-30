@@ -1,0 +1,216 @@
+English,Korean,Dictation
+Good,좋아요,joayo
+Bad,나빠요,nappayo
+Big,커요,keoyo
+Small,작아요,jagayo
+Long,길어요,gireoyo
+Short,짧아요,chalbayo
+Expensive,비싸요,bissayo
+Cheap,싸요,ssayo
+Busy,바빠요,bappayo
+Delicious,맛있어요,masisseoyo
+Difficult,어려워요,eoryeowoyo
+Easy,쉬워요,suiwoyo
+Far,멀어요,meoreoyo
+Near,가까워요,gakkawoyo
+Clean,깨끗해요,kaekkeuthaeyo
+Dirty,더러워요,deoreoeoyo
+Beautiful,예뻐요,yeppeoyo
+Kind,친절해요,chinjeorhaeyo
+Quiet,조용해요,joyonghaeyo
+Interesting,재미있어요,jaemiisseoyo
+To Go,가다,gada
+To Come,오다,oda
+To Eat,먹다,meokda
+To Drink,마시다,masida
+To Wake up,일어나다,ireonada
+To Sleep,자다,jada
+To Work,일하다,ir-hada
+To Talk,이야기하다,iyagi-hada
+To Listen,듣다,deutta
+To Speak,말하다,mar-hada
+To Meet,만나다,mannada
+To Sing,노래하다,norae-hada
+To Dance,춤추다,chumchhuda
+"To See, Watch",보다,boda
+To Like,좋아하다,joa-hada
+To Love,사랑하다,sarang-hada
+To Dislike,싫어하다,sireo-hada
+To Read,읽다,ikda
+To Write,쓰다,seuda
+To Study,공부하다,gongbu-hada
+Vehicle,자동차,jadongcha
+Taxi,택시,taeksi
+Bus,버스,beoseu
+Metro,지하철,jihacheol
+Train,기차,gicha
+Airplane,비행기,bihaengi
+"Ride, Take",타다,tada
+Change,갈아타다,garatada
+To Get off,내리다,naerida
+"Stop, Stand",정류장,jeongnyujang
+Station,역,yeok
+Airport,공항,gonghang
+Ticket,표,pyo
+Fare,요금,yogeum
+"Road,Street",길,gil
+Traffic,교통,gyothong
+Depart,출발하다,chulbal-hada
+Arrive,도착하다,dochak-hada
+Rain,비,bi
+snow,눈,nun
+Fog,안개,angae
+Lightning,번개,beongae
+Rainbow,무지개,mujigae
+Wind,바람,baram
+Typhoon,태풍,taepung
+Sunlight,햇빛,haeppit
+Moonlight,달빛,dalbit
+Monday,월요일,Woryo-il
+Tuesday,화요일,Hwayo-il
+Wednesday,수요일,Suyo-il
+Thursday,목요일,Mogyo-il
+Friday,금요일,Gumyo-il
+Saturday,토요일,Doyo-il
+Sunday,일요일,Iryo-il
+January,일월,ir-wol
+February,이월,i-wol
+March,삼월,sam-wol
+April,사월,sa-wol
+May,오월,o-wol
+June,유월,yu-wol
+July,칠월,chir-wol
+August,팔월,par-wol
+September,구월,gu-wol
+October,시월,shi-wol
+November,십일월,shib-irwol
+December,십이월,shib-i-wol
+Yesterday,어제,eoje
+Today,오늘,oneul
+Tomorrow,내일,naeil
+Day after tmrw,모레,more
+Weekday,평일,pyeongil
+Weekend,주말,jumal
+Everyday,매일,maeil
+Every week,매주,maeju
+Every month,매달,maedal
+Every year,매년,maenyeon
+Now,지금,jigeum
+These days,요즘,yojeum
+Recently,최근에,chwegeune
+Always,항상,hangsang
+Often,자주,jaju
+Sometimes,가끔,gakkeum
+A while ago,아까,akka
+A little later,이따가,ittaga
+Later,나중에,najunge
+Last Week,지난주,Chinan-chu
+This Week,이번주,ibeon-chu
+Next Week,다음주,thaeum-chu
+Last Month,지난달,Chinan -dal
+This Month,이번달,ibeon-dal
+Next Month,다음달,thaeum-dal
+Last Year,작년,chang-nyeon
+This Year,올해,orhae
+Next Year,내년,nae-nyeon
+And,그리고,geurigo
+But,그런데,geureonde
+Therefore,그래서,geuraeseo
+In that case,그러면,geureomyeon
+That's why,그러니까,geureonikka
+Even then,그래도,geuraedo
+Because,왜냐하면,waenyahamyeon
+"Or, Otherwise",아니면,animyeon
+For Example,예를 들어,yereul deureo
+Abdomen,배,bae
+Ankle,발목,balmok
+Arm,팔,pal
+Back,등,deung
+Body,신체/몸,sinche/mom
+"Breast, Chest",가슴,gaseum
+Buttocks,엉덩이,eongdeongi
+Cheek,뺨,ppyam
+Chin,턱,teog
+Dimple,보조개,bojogae
+Ear,귀,gwi
+Eye,눈,nun
+Eyebrow,눈썹,nunsseop
+Eyelid,눈꺼풀,nunkkeopul
+Face,얼굴,eolgul
+Finger,손가락,songarak
+Fingernail,손톱,sontop
+Fist,주먹,jumeok
+Foot,발,bal
+Forehead,이마,ima
+Gum,잇몸,itmom
+Hair,머리카락,meorikarag
+Hand,손,son
+Head,머리,meori
+Index Finger,검지,geomji
+Knee,무릎,mureup
+Leg,다리,dari
+Lips,입술,ipsul
+Mouth,입,ip
+Navel,배꼽,baekkop
+Neck,목,mok
+Nose,코,ko
+Palm (Hand ),손바닥,sonbadak
+Shoulder,어깨,eokkae
+Skin,피부,pibu
+Thigh,허벅지,heobeokji
+Thumb,엄지,eomji
+Toe,발가락,balgarak
+Toe nail,발톱,baltop
+Tongue,혀,hyeo
+Tooth,"이, 이빨","I, ippal"
+Waist,허리,heori
+Wrist,손목,sonmok
+"Specifically, Concretely",구체적으로,guche-jeogeuro
+"Actively, Positively",적극적으로,jokkkeuk-jeogeuro
+"Practically, In Reality",실제적으로,silje-jeogeuro
+"Personally, Individually",개인적으로,gaein-jeogeuro
+"Formally, Officially",공식적으로,gongsik-jeogeuro
+"Basically, Fundamentally",기본적으로,gibon-jeogeuro
+Intentionally,의도적으로,uido-jeogeuro
+Psychologically,심리적으로,simni-jeogeuro
+Slowly,천천히,cheoncheonhi
+Diligently,열심히,yeohshimhi
+Honestly,솔직히,soljikhi
+By Chance,우연히,uyeonhi
+In Detail,자세히,jasehi
+Especially,특별히,deukpyeorhi
+Certainly,확실히,hwakshirhi
+Simply,간단히,gandanhi
+Carefully,정류장,joshimhi
+Doctor,의사,uisa
+Nurse,간호사,ganhosa
+Injection,주사,jusa
+Pharmacist,약사,yaksa
+Medicine,약,yak
+Cancer,암,Aam
+Cough,기침,gichim
+Flu,독감,dokgam
+Vomiting,구토,guto
+Paralysis,마비,mabi
+Toothache,치통,chitong
+Constipation,변비,byeonbi
+Runny Nose,콧물,konmul
+Fever,열,yeol
+Pregnancy,임신,imsin
+Childbirth,출산,chulsan
+Abortion,낙태,naktae
+Operation,수술,susul
+Hospitalization,입원,ibwon
+Hospital Discharge,퇴원,toewon
+Diabetes,당뇨병,dangnyo
+High Blood Pressure,고혈압,gohyeorap
+Low Blood Pressure,저혈압,jeohyeorap
+Malnutrition,영양실조,yeongyangsiljo
+Death,사망,samang
+Sickness,병,byeong
+Prescription,처방,cheobang
+Consultation Room,진료실,jillyosil
+Emergency Room,응급실,eunggeupsil
+Common Cold,감기,gamgi
+To Have Pain,아파요,apayo
+Pain In Body Part,Body part 아파요,Body part apayo
