@@ -2,9 +2,10 @@ import smtplib
 from datetime import datetime
 import pandas
 import random
+import os
 
-EMAIL = "christiansongg65@gmail.com"
-PASSWORD = "manpvrjzuvwjkfou"
+EMAIL = os.environ["EMAIL"]
+PASSWORD = os.environ["PASSWORD"]
 
 today = (datetime.now().month, datetime.now().day)
 

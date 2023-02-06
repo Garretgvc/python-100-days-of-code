@@ -1,8 +1,8 @@
 import smtplib
 
-FROM_EMAIL = "christiansongg65@gmail.com"
-TO_EMAIL = "christiansongg@yahoo.com"
-PASSWORD = "manpvrjzuvwjkfou"
+FROM_EMAIL = "place email here"
+TO_EMAIL = "place recieving email here"
+PASSWORD = "make password"
 
 # with smtplib.SMTP("smtp.gmail.com") as connection:
 #     connection.starttls()
