@@ -17,7 +17,7 @@ end_time = time.time() + 60 * 5
 
 driver.get("https://orteil.dashnet.org/experiments/cookie/")
 
-cookie = driver.find_element(By.ID, "coolie")
+cookie = driver.find_element(By.ID, "cookie")
 
 # Use CSS_Selector to "drill-down" into the store id to get the divs inside
 all_items = driver.find_elements(By.CSS_SELECTOR, "#store div")
